@@ -1006,9 +1006,28 @@ section {
   margin: auto;
 }
 
+.imgPrestasi {
+  position: absolute;
+  left: -100%;
+  right: -100%;
+  top: -100%;
+  bottom: -100%;
+  margin: auto;
+  min-height: 100%;
+  min-width: 100%;
+}
+
 .containerSkills {
   height: 200px;
   margin-bottom: 25px;
+}
+
+.containerPrestasi {
+  height: 250px;
+  width: 400px;
+  overflow: hidden;
+  position: relative;
+  margin: 10px;
 }
 
 .profilePict {
