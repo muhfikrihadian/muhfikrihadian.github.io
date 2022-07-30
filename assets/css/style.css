@@ -1017,6 +1017,28 @@ section {
   min-width: 100%;
 }
 
+.imgPorto {
+  /* max-width: 800px; */
+  /* max-height: 600px; */
+  /* /* height: auto; */
+  /* width: auto; */
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.btnDownload{
+  max-width: 150px;
+  max-height: 100px;
+  height: auto;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items :center;
+}
+
 .containerSkills {
   height: 200px;
   margin-bottom: 25px;
